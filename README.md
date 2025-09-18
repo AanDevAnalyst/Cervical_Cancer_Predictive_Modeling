@@ -15,13 +15,7 @@ This project develops a machine learning model to predict the likelihood of Cerv
 - Deploy the model for real-world usability.
 
 
-📂**DATASET:** <p align="left">
-  <img src="data:image/svg+xml;utf8,
-  <svg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 24 24'>
-    <path fill='%23008080' d='M12 2c0 3-1 5-4.5 7.5C4 12.5 4 15 4 17a4 4 0 0 0 8 0c0-2-1-4-4-6 1 0 1-1 2-2C12 10 15 7 15 4a3 3 0 0 0-3-2z'/>
-  </svg>" alt="Cervical Icon"/>
-  &nbsp;<strong>Cervical Cancer</strong>
-</p> Cervical Cancer Data Report
+📂**DATASET:** 🧬🎗 Cervical Cancer Data Report
 - Features include: Demographics: (Age, Number of Sexual Partners, First Sexual Intercourse, Num of Pregnancies), Lifestyle & Risk Factors: (Smokes, Smokes (years), Smokes (packs/year), Hormonal Contraceptives, Hormonal Contraceptives (years), IUD, IUD (years)), Sexually Transmitted Disease (STDs): (STDs, STDs (number), STDs: Condylomatosis, STDs: Vaginal Condylomatosis, STDs: Vulvo-Perineal Condylomatosis, STDs: Syphilis, STDs: Pelvic Inflammatory Disease, STDs: Genital Herpes, STDs: Molluscum Contagiosum, STDs: HIV, STDs: Hepatitis B, STDs: HPV, STDs: Number of Diagnosis, STDs: Time Since First Diagnosis, STDs: Time Since Last Diagnosis) and Target: Diagnosis/Outcome (Dx: Cancer, Dx: HPV, Dx, Hanselmann, Schiller, Cytology, Biopsy).
 - Target: Diagnosis/Outcome (Dx: Cancer, Dx: HPV, Dx, Hanselmann, Schiller, Cytology, Biopsy).
 
