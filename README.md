@@ -15,7 +15,7 @@ This project develops a machine learning model to predict the likelihood of Cerv
 - Deploy the model for real-world usability.
 
 
-📂**DATASET:** 🩺 Cervical Cancer Data Report
+📂**DATASET:** ![Cervical Cancer](https://img.shields.io/badge/Cervical%20Cancer-%20%20--008080) Cervical Cancer Data Report
 - Features include: Demographics: (Age, Number of Sexual Partners, First Sexual Intercourse, Num of Pregnancies), Lifestyle & Risk Factors: (Smokes, Smokes (years), Smokes (packs/year), Hormonal Contraceptives, Hormonal Contraceptives (years), IUD, IUD (years)), Sexually Transmitted Disease (STDs): (STDs, STDs (number), STDs: Condylomatosis, STDs: Vaginal Condylomatosis, STDs: Vulvo-Perineal Condylomatosis, STDs: Syphilis, STDs: Pelvic Inflammatory Disease, STDs: Genital Herpes, STDs: Molluscum Contagiosum, STDs: HIV, STDs: Hepatitis B, STDs: HPV, STDs: Number of Diagnosis, STDs: Time Since First Diagnosis, STDs: Time Since Last Diagnosis) and Target: Diagnosis/Outcome (Dx: Cancer, Dx: HPV, Dx, Hanselmann, Schiller, Cytology, Biopsy).
 - Target: Diagnosis/Outcome (Dx: Cancer, Dx: HPV, Dx, Hanselmann, Schiller, Cytology, Biopsy).
 
